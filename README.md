@@ -9,3 +9,4 @@ The velocity of the particle is updated, and its position is updated according t
 the process is repeated with the new (slightly different) density field. The basics of this method
 were described thoroughly in a classic book by Hockney & Eastwood (1988), Computer Simulation
 Using Particles.
+![](32Final.gif)
